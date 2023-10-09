@@ -68,3 +68,58 @@ color: #FFF;
     font-weight: 700;
     margin-top: 22px;
 } 
+.section__header{
+    display: flex;
+    margin-top: 70px;
+}
+.section__header h2{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.section__header h1{
+    color: #212121;
+    font-family: Arvo;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 400px;
+}
+.section__header ion-icon{
+    margin-top: 9px;
+    margin-right: 10px;
+}
+.section__img{
+    display:flex ;
+    flex-wrap: wrap;
+    gap: 10px;  
+    margin-top: 70px;
+}
+.section__img h1{
+    color: #212121;
+font-family: Arvo;
+font-size: 22px;
+}
+.section__img p{
+    color: #9FA3A7;
+    font-family: Open Sans;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+
+.section__img-text-icon{
+    color: #9FA3A7;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 700;
+    display: flex;
+}
+.section__img-text-icons{
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
