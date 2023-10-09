@@ -94,6 +94,7 @@ color: #FFF;
     flex-wrap: wrap;
     gap: 10px;  
     margin-top: 70px;
+    margin-bottom: 70px;
 }
 .section__img h1{
     color: #212121;
@@ -123,3 +124,87 @@ font-size: 22px;
     justify-content: space-between;
     margin-top: 15px;
 }
+#footer{
+    background: #2C2C2C;
+}
+.footer{
+    display: flex;
+}
+.footer h1{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+.footer a{
+    color: #9FA3A7;
+    font-family:sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.logo__facebook {
+    color: #FFF;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    /* margin-bottom: 150px; */
+}
+.logo__twitter {
+    color: #FFF;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.logo__linkedin {
+    color: #FFF;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.logo__pinterest {
+    color: #FFF;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    margin-left: 25px;
+    margin-top: 15px;   
+}
+.footer__heder-two{
+    margin-left: 130px;
+}
+.footer__heder-three{
+    margin-left: 130px;
+}
+.footer__heder-fo{
+    margin-left: 130px;
+}
+.footer-a{
+    margin-top: 15px;
+}
+#footer-footer{
+    background: #2C2C2C;
+}
+.footer-footer{
+    display: flex;
+}
+.footer-footer h1{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.footer-footer-img{
+    margin-top: 90px;
+}
+
+.footer-footer-text{
+    margin-left: 102px;
+}
+    
